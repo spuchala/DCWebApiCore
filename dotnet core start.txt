@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
+https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2#authentication-vs-authorization
+https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-3.1
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/url-rewriting?view=aspnetcore-3.1
+https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/data-annotations
