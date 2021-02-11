@@ -27,7 +27,6 @@ namespace DCWebApiCore
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddTransient<IUserService, UserService>();
-            services.Configure<AuthOptions>(Configuration.GetSection("AuthOptions"));
 
             services.AddControllers();
         }
